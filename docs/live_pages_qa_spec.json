@@ -1,0 +1,2245 @@
+{
+  "about": [
+    {
+      "index": 0,
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fee0b8",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 1
+    },
+    {
+      "index": 1,
+      "classes": [
+        "elementor-element",
+        "elementor-element-9de8f6a",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "about our",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h1",
+          "text": "agency",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [],
+      "buttons": [
+        "next page"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 2
+    },
+    {
+      "index": 2,
+      "classes": [
+        "elementor-element",
+        "elementor-element-3d85dc3",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 5
+    },
+    {
+      "index": 3,
+      "classes": [
+        "elementor-element",
+        "elementor-element-3043c9a",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We create influencer campaigns  -",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "For brands that value authenticity over vanity metrics, believing that meaningful connections drive lasting impact.",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "about our agency"
+      ],
+      "buttons": [],
+      "paras": [],
+      "image_count": 0
+    },
+    {
+      "index": 4,
+      "classes": [
+        "elementor-element",
+        "elementor-element-72ae07c",
+        "e-con-full",
+        "e-flex",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 0
+    },
+    {
+      "index": 5,
+      "classes": [
+        "elementor-element",
+        "elementor-element-f4f75d6",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Driving Results Through Real Influence",
+          "class": [
+            "heading-title"
+          ]
+        },
+        {
+          "tag": "h3",
+          "text": "Strategic Campaign Planning",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h3",
+          "text": "Engaging Content Creation",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Sarah Johnson",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "send message...",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h3",
+          "text": "Expert Industry Insights",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Let's Connect :",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "WHY CHOOSE US",
+        "43.4k"
+      ],
+      "buttons": [
+        "get started",
+        "Book A Call"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus."
+      ],
+      "image_count": 1
+    },
+    {
+      "index": 6,
+      "classes": [
+        "elementor-element",
+        "elementor-element-ad376c2",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Discover Exceptional Digital Creators",
+          "class": [
+            "heading-title"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Ethan Carter",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Lifestyle Creator",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Sophia Bennett",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Beauty Influencer",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Naomi Mitchell",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Tech Reviewer",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Ava Collins",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Fashion Creator",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "OUR TALENTS"
+      ],
+      "buttons": [
+        "view more"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 8
+    },
+    {
+      "index": 7,
+      "classes": [
+        "elementor-element",
+        "elementor-element-1708866",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EXPLORE",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "SERVICES",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "contact us",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "Home",
+        "About",
+        "Services",
+        "Creators",
+        "Insights",
+        "Influencer Marketing",
+        "Campaign Strategy",
+        "Creator Management",
+        "Content Production",
+        "hello@influze.com",
+        "(+68)72973934",
+        "3763 newton maco",
+        "privacy",
+        "cookie",
+        "sitemap"
+      ],
+      "buttons": [],
+      "paras": [
+        "We connect brands with creators through authentic partnerships that inspire audiences and deliver measurable results."
+      ],
+      "image_count": 1
+    }
+  ],
+  "services": [
+    {
+      "index": 0,
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fee0b8",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 1
+    },
+    {
+      "index": 1,
+      "classes": [
+        "elementor-element",
+        "elementor-element-fae1b2a",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "services we",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h1",
+          "text": "offer",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [],
+      "buttons": [
+        "next page"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 2
+    },
+    {
+      "index": 2,
+      "classes": [
+        "elementor-element",
+        "elementor-element-69251e9",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 5
+    },
+    {
+      "index": 3,
+      "classes": [
+        "elementor-element",
+        "elementor-element-7ba2bd7",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Strategic Services For Modern Brands",
+          "class": [
+            "heading-title"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "Influencer Marketing",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "Creator Partnerships",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "Content Creation",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "Talent Management",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "Campaign Analytics",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "Brand Collaborations",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "OUR EXPERTISE",
+        "Brand Growth",
+        "Strategy",
+        "Creator Match",
+        "Partnership",
+        "Content First",
+        "Creative"
+      ],
+      "buttons": [
+        "learn more"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 6
+    },
+    {
+      "index": 4,
+      "classes": [
+        "elementor-element",
+        "elementor-element-44d0342",
+        "e-con-full",
+        "e-flex",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 0
+    },
+    {
+      "index": 5,
+      "classes": [
+        "elementor-element",
+        "elementor-element-a2c8230",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Trusted By Brands And Creators",
+          "class": [
+            "heading-title"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "4.8/5.0",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "trusted by 10K+ brands worldwide",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Sarah Johnson",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Founder, FitFuel",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "5.0",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "SUCCESS STORIES"
+      ],
+      "buttons": [],
+      "paras": [
+        "\u201cLorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec.\u201d",
+        "Designation",
+        "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\"",
+        "Designation",
+        "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\""
+      ],
+      "image_count": 7
+    },
+    {
+      "index": 6,
+      "classes": [
+        "elementor-element",
+        "elementor-element-1708866",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EXPLORE",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "SERVICES",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "contact us",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "Home",
+        "About",
+        "Services",
+        "Creators",
+        "Insights",
+        "Influencer Marketing",
+        "Campaign Strategy",
+        "Creator Management",
+        "Content Production",
+        "hello@influze.com",
+        "(+68)72973934",
+        "3763 newton maco",
+        "privacy",
+        "cookie",
+        "sitemap"
+      ],
+      "buttons": [],
+      "paras": [
+        "We connect brands with creators through authentic partnerships that inspire audiences and deliver measurable results."
+      ],
+      "image_count": 1
+    }
+  ],
+  "influencers": [
+    {
+      "index": 0,
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fee0b8",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 1
+    },
+    {
+      "index": 1,
+      "classes": [
+        "elementor-element",
+        "elementor-element-68e04f9",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Trusted Creator",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h1",
+          "text": "partners",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [],
+      "buttons": [
+        "next page"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 2
+    },
+    {
+      "index": 2,
+      "classes": [
+        "elementor-element",
+        "elementor-element-47ce121",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 5
+    },
+    {
+      "index": 3,
+      "classes": [
+        "elementor-element",
+        "elementor-element-6a6f72b",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Discover Exceptional Digital Creators",
+          "class": [
+            "heading-title"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Ethan Carter",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Lifestyle Creator",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Sophia Bennett",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Beauty Influencer",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Naomi Mitchell",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Tech Reviewer",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Ava Collins",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Fashion Creator",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Lucas Anderson",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Travel Influencer",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Mia Thompson",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Fitness Coach",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "lisa Brooks",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Content Creator",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Chloe Parker",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Food & Lifestyle Creator",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "OUR TALENTS"
+      ],
+      "buttons": [],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 16
+    },
+    {
+      "index": 4,
+      "classes": [
+        "elementor-element",
+        "elementor-element-1a12fa0",
+        "e-con-full",
+        "e-flex",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 0
+    },
+    {
+      "index": 5,
+      "classes": [
+        "elementor-element",
+        "elementor-element-0a0d48b",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Your Influencer Marketing Questions Answered",
+          "class": [
+            "heading-title"
+          ]
+        }
+      ],
+      "pills": [
+        "SUPPORT CENTER"
+      ],
+      "buttons": [],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+      ],
+      "image_count": 0
+    },
+    {
+      "index": 6,
+      "classes": [
+        "elementor-element",
+        "elementor-element-1708866",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EXPLORE",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "SERVICES",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "contact us",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "Home",
+        "About",
+        "Services",
+        "Creators",
+        "Insights",
+        "Influencer Marketing",
+        "Campaign Strategy",
+        "Creator Management",
+        "Content Production",
+        "hello@influze.com",
+        "(+68)72973934",
+        "3763 newton maco",
+        "privacy",
+        "cookie",
+        "sitemap"
+      ],
+      "buttons": [],
+      "paras": [
+        "We connect brands with creators through authentic partnerships that inspire audiences and deliver measurable results."
+      ],
+      "image_count": 1
+    }
+  ],
+  "projects": [
+    {
+      "index": 0,
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fee0b8",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 1
+    },
+    {
+      "index": 1,
+      "classes": [
+        "elementor-element",
+        "elementor-element-d2b26e0",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "our latest",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h1",
+          "text": "projects",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [],
+      "buttons": [
+        "next page"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 2
+    },
+    {
+      "index": 2,
+      "classes": [
+        "elementor-element",
+        "elementor-element-202f8bc",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 5
+    },
+    {
+      "index": 3,
+      "classes": [
+        "elementor-element",
+        "elementor-element-696a7c6",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Campaigns That Deliver Real Results",
+          "class": [
+            "heading-title"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "Summer Style Launch Campaign",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Fashion Lifestyle",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Emma Collins",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "3.2M",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "8.9%",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "Glow Naturally Product Review",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Beauty Care",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Sophia Carter",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "8.2M",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "9.4%",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "Explore Beyond Destinations",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Travel Tourism",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Olivia Brooks",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "3.2M",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "8.9%",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "30-Day Healthy Challenge",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "- Health Fitness",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "Liam Anderson",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "3.2M",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "8.9%",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "FEATURED PROJECTS",
+        "Fashion",
+        "Lifestyle",
+        "Reach",
+        "Engagement",
+        "beauty",
+        "skincare",
+        "Travel",
+        "Adventure",
+        "Wellness",
+        "Fitness"
+      ],
+      "buttons": [
+        "learn more"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 8
+    },
+    {
+      "index": 4,
+      "classes": [
+        "elementor-element",
+        "elementor-element-14bbeab",
+        "e-con-full",
+        "e-flex",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 0
+    },
+    {
+      "index": 5,
+      "classes": [
+        "elementor-element",
+        "elementor-element-8bba7b2",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Your Influencer Marketing Questions Answered",
+          "class": [
+            "heading-title"
+          ]
+        }
+      ],
+      "pills": [
+        "SUPPORT CENTER"
+      ],
+      "buttons": [],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+      ],
+      "image_count": 0
+    },
+    {
+      "index": 6,
+      "classes": [
+        "elementor-element",
+        "elementor-element-1708866",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EXPLORE",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "SERVICES",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "contact us",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "Home",
+        "About",
+        "Services",
+        "Creators",
+        "Insights",
+        "Influencer Marketing",
+        "Campaign Strategy",
+        "Creator Management",
+        "Content Production",
+        "hello@influze.com",
+        "(+68)72973934",
+        "3763 newton maco",
+        "privacy",
+        "cookie",
+        "sitemap"
+      ],
+      "buttons": [],
+      "paras": [
+        "We connect brands with creators through authentic partnerships that inspire audiences and deliver measurable results."
+      ],
+      "image_count": 1
+    }
+  ],
+  "pricing": [
+    {
+      "index": 0,
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fee0b8",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 1
+    },
+    {
+      "index": 1,
+      "classes": [
+        "elementor-element",
+        "elementor-element-d3ccf0c",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "choose your",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h1",
+          "text": "plan",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [],
+      "buttons": [
+        "next page"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 2
+    },
+    {
+      "index": 2,
+      "classes": [
+        "elementor-element",
+        "elementor-element-b114567",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 5
+    },
+    {
+      "index": 3,
+      "classes": [
+        "elementor-element",
+        "elementor-element-f1343b7",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Choose The Perfect Campaign Plan",
+          "class": [
+            "heading-title"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "What's Included:",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "What's Included:",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h5",
+          "text": "What's Included:",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "PRICING PLANS",
+        "starter plan",
+        "Up to 3 Influencer Collaborations",
+        "Campaign Strategy Consultation",
+        "Content Performance Report",
+        "Email Support",
+        "growth plan",
+        "most popular",
+        "premium plan"
+      ],
+      "buttons": [
+        "learn more",
+        "choose plan"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "Lorem ipsum dolor sit amet, consectetur elit.",
+        "Lorem ipsum dolor sit amet, consectetur elit.",
+        "Lorem ipsum dolor sit amet, consectetur elit."
+      ],
+      "image_count": 0
+    },
+    {
+      "index": 4,
+      "classes": [
+        "elementor-element",
+        "elementor-element-f0e3e15",
+        "e-con-full",
+        "e-flex",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 0
+    },
+    {
+      "index": 5,
+      "classes": [
+        "elementor-element",
+        "elementor-element-73e8d33",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Your Influencer Marketing Questions Answered",
+          "class": [
+            "heading-title"
+          ]
+        }
+      ],
+      "pills": [
+        "SUPPORT CENTER"
+      ],
+      "buttons": [],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+      ],
+      "image_count": 0
+    },
+    {
+      "index": 6,
+      "classes": [
+        "elementor-element",
+        "elementor-element-1708866",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EXPLORE",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "SERVICES",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "contact us",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "Home",
+        "About",
+        "Services",
+        "Creators",
+        "Insights",
+        "Influencer Marketing",
+        "Campaign Strategy",
+        "Creator Management",
+        "Content Production",
+        "hello@influze.com",
+        "(+68)72973934",
+        "3763 newton maco",
+        "privacy",
+        "cookie",
+        "sitemap"
+      ],
+      "buttons": [],
+      "paras": [
+        "We connect brands with creators through authentic partnerships that inspire audiences and deliver measurable results."
+      ],
+      "image_count": 1
+    }
+  ],
+  "blog": [
+    {
+      "index": 0,
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fee0b8",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 1
+    },
+    {
+      "index": 1,
+      "classes": [
+        "elementor-element",
+        "elementor-element-b708110",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "latest creator",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h1",
+          "text": "insights",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [],
+      "buttons": [
+        "next page"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 2
+    },
+    {
+      "index": 2,
+      "classes": [
+        "elementor-element",
+        "elementor-element-1f53f2e",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 5
+    },
+    {
+      "index": 3,
+      "classes": [
+        "elementor-element",
+        "elementor-element-0526b30",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Latest Trends in Creator Marketing",
+          "class": [
+            "heading-title"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "How Influencer Marketing Drives Brand Growth",
+          "class": [
+            "premium-blog-entry-title"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "Choosing The Right Influencer For Your Brand",
+          "class": [
+            "premium-blog-entry-title"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "The Future Of Short-Form Content Marketing",
+          "class": [
+            "premium-blog-entry-title"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "Key Metrics Every Brand Should Track",
+          "class": [
+            "premium-blog-entry-title"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "Top Creator Marketing Trends in 2026",
+          "class": [
+            "premium-blog-entry-title"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "Creating Campaigns That Audiences Trust",
+          "class": [
+            "premium-blog-entry-title"
+          ]
+        }
+      ],
+      "pills": [
+        "LATEST INSIGHTS"
+      ],
+      "buttons": [
+        "view more",
+        "Read More \u2192"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 6
+    },
+    {
+      "index": 4,
+      "classes": [
+        "elementor-element",
+        "elementor-element-1708866",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EXPLORE",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "SERVICES",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "contact us",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "Home",
+        "About",
+        "Services",
+        "Creators",
+        "Insights",
+        "Influencer Marketing",
+        "Campaign Strategy",
+        "Creator Management",
+        "Content Production",
+        "hello@influze.com",
+        "(+68)72973934",
+        "3763 newton maco",
+        "privacy",
+        "cookie",
+        "sitemap"
+      ],
+      "buttons": [],
+      "paras": [
+        "We connect brands with creators through authentic partnerships that inspire audiences and deliver measurable results."
+      ],
+      "image_count": 1
+    }
+  ],
+  "faq": [
+    {
+      "index": 0,
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fee0b8",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 1
+    },
+    {
+      "index": 1,
+      "classes": [
+        "elementor-element",
+        "elementor-element-22aaf88",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "need more",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h1",
+          "text": "answers",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [],
+      "buttons": [
+        "next page"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 2
+    },
+    {
+      "index": 2,
+      "classes": [
+        "elementor-element",
+        "elementor-element-91eb5fa",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 5
+    },
+    {
+      "index": 3,
+      "classes": [
+        "elementor-element",
+        "elementor-element-c52a255",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Your Questions, Clearly Answered",
+          "class": [
+            "heading-title"
+          ]
+        },
+        {
+          "tag": "h4",
+          "text": "still have question?",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "HELP CENTER",
+        "Any questions?"
+      ],
+      "buttons": [
+        "contact us"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+      ],
+      "image_count": 0
+    },
+    {
+      "index": 4,
+      "classes": [
+        "elementor-element",
+        "elementor-element-4553ba6",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Your Influencer Marketing Questions Answered",
+          "class": [
+            "heading-title"
+          ]
+        }
+      ],
+      "pills": [
+        "SUPPORT CENTER"
+      ],
+      "buttons": [],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+      ],
+      "image_count": 0
+    },
+    {
+      "index": 5,
+      "classes": [
+        "elementor-element",
+        "elementor-element-1708866",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EXPLORE",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "SERVICES",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "contact us",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "Home",
+        "About",
+        "Services",
+        "Creators",
+        "Insights",
+        "Influencer Marketing",
+        "Campaign Strategy",
+        "Creator Management",
+        "Content Production",
+        "hello@influze.com",
+        "(+68)72973934",
+        "3763 newton maco",
+        "privacy",
+        "cookie",
+        "sitemap"
+      ],
+      "buttons": [],
+      "paras": [
+        "We connect brands with creators through authentic partnerships that inspire audiences and deliver measurable results."
+      ],
+      "image_count": 1
+    }
+  ],
+  "contact": [
+    {
+      "index": 0,
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fee0b8",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 1
+    },
+    {
+      "index": 1,
+      "classes": [
+        "elementor-element",
+        "elementor-element-bcb78f9",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "let's build",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h1",
+          "text": "together",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [],
+      "buttons": [
+        "next page"
+      ],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+      ],
+      "image_count": 2
+    },
+    {
+      "index": 2,
+      "classes": [
+        "elementor-element",
+        "elementor-element-5673afd",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 5
+    },
+    {
+      "index": 3,
+      "classes": [
+        "elementor-element",
+        "elementor-element-f65ef55",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Let's Grow Your Brand Together",
+          "class": [
+            "heading-title"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "457 Morningview Lane\nNew York USA",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h6",
+          "text": "hello@influze.com\n(+68)72973934",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "LET'S CONNECT",
+        "address",
+        "contact us"
+      ],
+      "buttons": [],
+      "paras": [],
+      "image_count": 0
+    },
+    {
+      "index": 4,
+      "classes": [
+        "elementor-element",
+        "elementor-element-7d13811",
+        "e-con-full",
+        "e-flex",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [],
+      "pills": [],
+      "buttons": [],
+      "paras": [],
+      "image_count": 0
+    },
+    {
+      "index": 5,
+      "classes": [
+        "elementor-element",
+        "elementor-element-f63b148",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Your Influencer Marketing Questions Answered",
+          "class": [
+            "heading-title"
+          ]
+        }
+      ],
+      "pills": [
+        "SUPPORT CENTER"
+      ],
+      "buttons": [],
+      "paras": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+      ],
+      "image_count": 0
+    },
+    {
+      "index": 6,
+      "classes": [
+        "elementor-element",
+        "elementor-element-1708866",
+        "e-flex",
+        "e-con-boxed",
+        "e-con",
+        "e-parent"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EXPLORE",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "SERVICES",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        },
+        {
+          "tag": "h2",
+          "text": "contact us",
+          "class": [
+            "elementor-heading-title",
+            "elementor-size-default"
+          ]
+        }
+      ],
+      "pills": [
+        "Home",
+        "About",
+        "Services",
+        "Creators",
+        "Insights",
+        "Influencer Marketing",
+        "Campaign Strategy",
+        "Creator Management",
+        "Content Production",
+        "hello@influze.com",
+        "(+68)72973934",
+        "3763 newton maco",
+        "privacy",
+        "cookie",
+        "sitemap"
+      ],
+      "buttons": [],
+      "paras": [
+        "We connect brands with creators through authentic partnerships that inspire audiences and deliver measurable results."
+      ],
+      "image_count": 1
+    }
+  ]
+}
